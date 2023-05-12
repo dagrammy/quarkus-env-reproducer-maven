@@ -17,7 +17,7 @@ Run the application:
 
 Set env var `BANNER` and run the application:
 ```shell script
-set BANNER=true
+export BANNER=true
 ./target/command-mode-quickstart-1.0.0-SNAPSHOT-runner
 ```
 
