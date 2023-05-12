@@ -13,7 +13,7 @@ Run the application:
 ./target/command-mode-quickstart-1.0.0-SNAPSHOT-runner
 ```
 
-&rarr; header is NOT shown
+&rarr; header is not shown
 
 Set env var `BANNER` and run the application:
 ```shell script
@@ -21,4 +21,4 @@ set BANNER=true
 ./target/command-mode-quickstart-1.0.0-SNAPSHOT-runner
 ```
 
-&rarr; header is NOT shown although env var is set
+&rarr; header is shown
